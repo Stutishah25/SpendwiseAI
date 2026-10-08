@@ -1,0 +1,6 @@
+{
+  "name": "SpendWise AI",
+  "description": "See your money. Shape your future. A premium AI-powered personal finance platform for intelligent spending analysis, cash flow planning, and financial simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
